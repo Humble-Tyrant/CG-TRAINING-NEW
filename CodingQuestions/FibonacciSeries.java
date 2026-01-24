@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class FibonacciSeries {
     static void createFibonacciSeries(int n){

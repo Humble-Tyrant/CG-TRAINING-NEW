@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class SumOfDigits {
     static int sumOfDigits(int n) {

@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class ReplaceCharInString {
     static String replaceCharInString(String s, char c){

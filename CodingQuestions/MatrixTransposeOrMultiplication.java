@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class MatrixTransposeOrMultiplication {
     static int[][] matrixTranspose(int[][] matrix) {

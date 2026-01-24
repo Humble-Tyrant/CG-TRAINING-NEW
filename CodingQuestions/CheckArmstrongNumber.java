@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class CheckArmstrongNumber {
     static boolean checkArmstrongNumber(int n){

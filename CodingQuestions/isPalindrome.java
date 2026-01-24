@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 import java.util.Scanner;
 public class isPalindrome {
     static boolean checkPalindrome(int str) {

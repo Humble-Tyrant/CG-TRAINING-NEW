@@ -1,6 +1,4 @@
-package CapgeminiCodingQuestions;
-
-import java.util.Scanner;
+package CodingQuestions;
 
 public class CheckPangram {
     static boolean isPangram(String s){

@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class CheckForPerfectNumber {
     static boolean isPerfectNumber(int number) {

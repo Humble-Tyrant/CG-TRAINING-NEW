@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class ConvertBinary {
     static String convertBinary(int num) {

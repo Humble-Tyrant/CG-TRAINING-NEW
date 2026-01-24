@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class RemoveSpecialCharactersFromString {
     static String removeSpecialCharacters(String str) {

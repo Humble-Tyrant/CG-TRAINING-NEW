@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 import java.util.Scanner;
 public class Count_number_vowels {
     static int countVowels(String s){

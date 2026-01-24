@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class secondLargestElement {
     static int findSecondLargest(int[] arr) {

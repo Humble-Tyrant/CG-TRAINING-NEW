@@ -1,7 +1,6 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class FindGCD {
     static int[] gcd(int a,int b){

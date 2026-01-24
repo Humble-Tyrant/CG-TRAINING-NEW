@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class RemoveVowels {
     static String removeVowels(String str){
