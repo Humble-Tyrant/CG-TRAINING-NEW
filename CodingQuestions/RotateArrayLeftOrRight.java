@@ -1,7 +1,6 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class RotateArrayLeftOrRight {
     static void reverse(int[] array,int start,int end){

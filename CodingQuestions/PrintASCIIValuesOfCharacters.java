@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class PrintASCIIValuesOfCharacters {
     public static void main(String[] args) {

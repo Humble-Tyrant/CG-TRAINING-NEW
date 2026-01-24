@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 import java.util.*;
 public class FindDuplicateElements {
     static ArrayList<Integer> findDuplicateElements(int[] arr) {

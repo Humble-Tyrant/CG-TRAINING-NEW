@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class SumOfEvenPositionDigits {
     static int sumEvenPositionDigits(int[] nums) {

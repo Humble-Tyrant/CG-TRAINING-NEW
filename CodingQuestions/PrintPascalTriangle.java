@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class PrintPascalTriangle {
     static void printPascalTriangle(int n){

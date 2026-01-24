@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class CheckPrime {
     static boolean isPrime(int n){

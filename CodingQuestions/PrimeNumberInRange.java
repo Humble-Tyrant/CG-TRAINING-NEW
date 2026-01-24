@@ -1,6 +1,4 @@
-package CapgeminiCodingQuestions;
-
-import java.util.Scanner;
+package CodingQuestions;
 
 public class PrimeNumberInRange {
     static boolean isPrime(int n){

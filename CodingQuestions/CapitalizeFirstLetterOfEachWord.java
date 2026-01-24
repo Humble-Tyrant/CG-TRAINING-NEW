@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class CapitalizeFirstLetterOfEachWord {
     static String capitalizeFirstLetter(String str) {

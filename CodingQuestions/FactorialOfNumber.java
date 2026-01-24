@@ -1,4 +1,4 @@
-package CapgeminiCodingQuestions;
+package CodingQuestions;
 
 public class FactorialOfNumber {
     static int getFactorial(int n){
