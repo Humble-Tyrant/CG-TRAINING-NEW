@@ -1,0 +1,9 @@
+# Ignore everything
+
+*
+
+# Allow source code
+
+!src/
+!src/**
+
